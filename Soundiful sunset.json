@@ -1,0 +1,41 @@
+{
+    "manifest": {
+        "author": "Chime in theyre natraul habitat#1553",
+        "name": "Soundiful sunset",
+        "version": "1.0.0",
+        "updater": "https:\/\/raw.githubusercontent.com\/chimesthemes\/Shine-in-the-dark-\/main\/Dark%20shine!.json"
+    },
+    "background": {
+        "url": "https:\/\/cdn.discordapp.com\/attachments\/1018476527094091837\/1018487704478027787\/images_15.jpeg",
+        "overlay_alpha": 3
+    },
+    "fonts": {},
+    "simple_colors": {
+        "background": 0,
+        "background_secondary": 0,
+        "mention_highlight": 1071015950,
+        "accent": -2725874,
+        "active_channel": -2725874,
+        "statusbar": -2725874,
+        "blocked_bg": -2725874,
+        "input_background": -2725874
+    },
+    "colors": {},
+    "drawable_tints": {},
+    "raws": {
+        "call_calling": "https:\/\/cdn.discordapp.com\/attachments\/1018476527094091837\/1018488030639685743\/synth-grooves_HmO0Gnk.mp3",
+        "call_ringing": "https:\/\/cdn.discordapp.com\/attachments\/1018476527094091837\/1018488030639685743\/synth-grooves_HmO0Gnk.mp3",
+        "deafen": "https:\/\/cdn.discordapp.com\/attachments\/1018476527094091837\/1018487853124165662\/zapsplat_multimedia_notification_bright_metal_tun",
+        "mute": "https:\/\/cdn.discordapp.com\/attachments\/1018476527094091837\/1018487853124165662\/zapsplat_multimedia_notification_bright_metal_tun",
+        "stream_ended": "https:\/\/cdn.discordapp.com\/attachments\/1018476527094091837\/1018487853124165662\/zapsplat_multimedia_notification_bright_metal_tun",
+        "stream_user_left": "https:\/\/cdn.discordapp.com\/attachments\/1018476527094091837\/1018487853124165662\/zapsplat_multimedia_notification_bright_metal_tun",
+        "user_leave": "https:\/\/cdn.discordapp.com\/attachments\/1018476527094091837\/1018487853124165662\/zapsplat_multimedia_notification_bright_metal_tun",
+        "user_join": "https:\/\/cdn.discordapp.com\/attachments\/1018476527094091837\/1018487853124165662\/zapsplat_multimedia_notification_bright_metal_tun",
+        "stream_user_joined": "https:\/\/cdn.discordapp.com\/attachments\/1018476527094091837\/1018487853124165662\/zapsplat_multimedia_notification_bright_metal_tun",
+        "unmute": "https:\/\/cdn.discordapp.com\/attachments\/1018476527094091837\/1018487853124165662\/zapsplat_multimedia_notification_bright_metal_tun",
+        "undeafen": "https:\/\/cdn.discordapp.com\/attachments\/1018476527094091837\/1018487853124165662\/zapsplat_multimedia_notification_bright_metal_tun",
+        "user_moved": "https:\/\/cdn.discordapp.com\/attachments\/1018476527094091837\/1018487961509167215\/stepping-stones.mp3",
+        "reconnect": "https:\/\/cdn.discordapp.com\/attachments\/1018476527094091837\/1018488030870384710\/tech-notification-sound.mp3",
+        "stream_started": "https:\/\/cdn.discordapp.com\/attachments\/1018476527094091837\/1018488030870384710\/tech-notification-sound.mp3"
+    }
+}
